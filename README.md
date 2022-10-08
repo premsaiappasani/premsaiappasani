@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on Ethereum Smart Contracts
 
-🤔 I’m looking for help with Core Blockchain Construction
+🤔 I’m looking for help with Cryptography in core blockchain development
 
 💬 Ask me about Anything
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I am pursuing Electrical Engineering with 0 interest lol
+⚡ Fun fact: I am pursuing Btech in Electrical Engineering
 
 ![](https://komarev.com/ghpvc/?username=premsaiappasani&color=blue&style=flat-square)
 
