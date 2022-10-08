@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Blockchain Development
 
-👯 I’m looking to collaborate on Etherium Smart Contracts
+👯 I’m looking to collaborate on Ethereum Smart Contracts
 
 🤔 I’m looking for help with Core Blockchain Construction
 
