@@ -5,21 +5,23 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on MERN Stack Development
+🔭 I’m currently working with Ruby on Rails (I had to) and GoLang
 
-🌱 I’m currently learning Blockchain Development
+🌱 I’m currently working as MTS-1 at BYJU's
 
-👯 I’m looking to collaborate on Ethereum Smart Contracts
+👯 I’m looking to collaborate on any Ideas. Someone at BYJU's said, you'll need 3 people and an Idea for starting up.
 
-🤔 I’m looking for help with Cryptography in core blockchain development
+🤔 I’m looking for better opportunities
 
-💬 Ask me about Anything
+💬 Ask me Anything but time
 
-📫 How to reach me: linkedIn
+📫 How to reach me: LinkedIn (https://www.linkedin.com/in/premsaiappasani/)
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I am pursuing Btech in Electrical Engineering
+⚡ Fun fact: I use light mode in VS code.
+
+⚡ Not-so-Fun fact: I just graduated from NIT Durgapur
 
 ![](https://komarev.com/ghpvc/?username=premsaiappasani&color=blue&style=flat-square)
 
