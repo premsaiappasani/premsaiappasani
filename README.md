@@ -5,23 +5,23 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working with Ruby on Rails (I had to) and GoLang
+🔭 I’m currently working with Ruby on Rails and Spring Boot
 
-🌱 I’m currently working as MTS-1 at BYJU's
+🌱 I’m currently working as a full-time Software Engineer in India
 
-👯 I’m looking to collaborate on any Ideas. Someone at BYJU's said, you'll need 3 people and an Idea for starting up.
+👯 I’m looking to collaborate on any Ideas.
 
-🤔 I’m looking for better opportunities
+🤔 I’m looking for remote jobs
 
-💬 Ask me Anything but time
+💬 Ask me Anything about Java, Ruby, Microservices
 
 📫 How to reach me: LinkedIn (https://www.linkedin.com/in/premsaiappasani/)
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I use light mode in VS code.
+⚡ Fun fact: I use the eye-relaxing theme in VS code.
 
-⚡ Not-so-Fun fact: I just graduated from NIT Durgapur
+⚡ Where did I study?: I have graduated from NIT Durgapur in May 2023
 
 ![](https://komarev.com/ghpvc/?username=premsaiappasani&color=blue&style=flat-square)
 
